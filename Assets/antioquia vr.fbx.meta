@@ -58,6 +58,12 @@ ModelImporter:
     100104: patio madremonte xd.001
     100106: patio.002
     100108: sotano y zona verde
+    100110: ELIMINAR ESTO DESPUES
+    100112: escaleras de patios.001
+    100114: patio colorido
+    100116: triangulito verde.001
+    100118: 'sotano '
+    100120: sotano .001
     400000: //RootNode
     400002: Camera
     400004: Cube
@@ -113,6 +119,12 @@ ModelImporter:
     400104: patio madremonte xd.001
     400106: patio.002
     400108: sotano y zona verde
+    400110: ELIMINAR ESTO DESPUES
+    400112: escaleras de patios.001
+    400114: patio colorido
+    400116: triangulito verde.001
+    400118: 'sotano '
+    400120: sotano .001
     2000000: Camera
     2100000: Material
     2100002: mosaico
@@ -177,6 +189,12 @@ ModelImporter:
     2300098: patio madremonte xd.001
     2300100: patio.002
     2300102: sotano y zona verde
+    2300104: ELIMINAR ESTO DESPUES
+    2300106: escaleras de patios.001
+    2300108: patio colorido
+    2300110: triangulito verde.001
+    2300112: 'sotano '
+    2300114: sotano .001
     3300000: Cube
     3300002: Cube.001
     3300004: Cube.002
@@ -229,6 +247,12 @@ ModelImporter:
     3300098: patio madremonte xd.001
     3300100: patio.002
     3300102: sotano y zona verde
+    3300104: ELIMINAR ESTO DESPUES
+    3300106: escaleras de patios.001
+    3300108: patio colorido
+    3300110: triangulito verde.001
+    3300112: 'sotano '
+    3300114: sotano .001
     4300000: Cube.012
     4300002: Cube.009
     4300004: Cube.011
@@ -281,6 +305,12 @@ ModelImporter:
     4300098: patio madremonte xd.001
     4300100: patio madremonte xd
     4300102: sotano y zona verde
+    4300104: escaleras de patios.001
+    4300106: ELIMINAR ESTO DESPUES
+    4300108: patio colorido
+    4300110: triangulito verde.001
+    4300112: 'sotano '
+    4300114: sotano .001
     10800000: Lamp
   externalObjects:
   - first:
