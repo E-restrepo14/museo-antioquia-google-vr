@@ -64,6 +64,16 @@ ModelImporter:
     100116: triangulito verde.001
     100118: 'sotano '
     100120: sotano .001
+    100122: sotano y zona verde.001
+    100124: sotano y zona verde.002
+    100126: sotano y zona verde.003
+    100128: sotano y zona verde.004
+    100130: sotano y zona verde.005
+    100132: esquina sotano
+    100134: esquina sotano y zona verde
+    100136: puertas laterales
+    100138: sotano y zona verde lateral
+    100140: squina zona verde
     400000: //RootNode
     400002: Camera
     400004: Cube
@@ -125,6 +135,16 @@ ModelImporter:
     400116: triangulito verde.001
     400118: 'sotano '
     400120: sotano .001
+    400122: sotano y zona verde.001
+    400124: sotano y zona verde.002
+    400126: sotano y zona verde.003
+    400128: sotano y zona verde.004
+    400130: sotano y zona verde.005
+    400132: esquina sotano
+    400134: esquina sotano y zona verde
+    400136: puertas laterales
+    400138: sotano y zona verde lateral
+    400140: squina zona verde
     2000000: Camera
     2100000: Material
     2100002: mosaico
@@ -195,6 +215,16 @@ ModelImporter:
     2300110: triangulito verde.001
     2300112: 'sotano '
     2300114: sotano .001
+    2300116: sotano y zona verde.001
+    2300118: sotano y zona verde.002
+    2300120: sotano y zona verde.003
+    2300122: sotano y zona verde.004
+    2300124: sotano y zona verde.005
+    2300126: esquina sotano
+    2300128: esquina sotano y zona verde
+    2300130: puertas laterales
+    2300132: sotano y zona verde lateral
+    2300134: squina zona verde
     3300000: Cube
     3300002: Cube.001
     3300004: Cube.002
@@ -253,6 +283,16 @@ ModelImporter:
     3300110: triangulito verde.001
     3300112: 'sotano '
     3300114: sotano .001
+    3300116: sotano y zona verde.001
+    3300118: sotano y zona verde.002
+    3300120: sotano y zona verde.003
+    3300122: sotano y zona verde.004
+    3300124: sotano y zona verde.005
+    3300126: esquina sotano
+    3300128: esquina sotano y zona verde
+    3300130: puertas laterales
+    3300132: sotano y zona verde lateral
+    3300134: squina zona verde
     4300000: Cube.012
     4300002: Cube.009
     4300004: Cube.011
@@ -311,6 +351,16 @@ ModelImporter:
     4300110: triangulito verde.001
     4300112: 'sotano '
     4300114: sotano .001
+    4300116: sotano y zona verde.001
+    4300118: sotano y zona verde.004
+    4300120: sotano y zona verde.003
+    4300122: sotano y zona verde.002
+    4300124: sotano y zona verde.005
+    4300126: squina zona verde
+    4300128: puertas laterales
+    4300130: sotano y zona verde lateral
+    4300132: esquina sotano
+    4300134: esquina sotano y zona verde
     10800000: Lamp
   externalObjects:
   - first:
