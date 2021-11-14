@@ -74,6 +74,9 @@ ModelImporter:
     100136: puertas laterales
     100138: sotano y zona verde lateral
     100140: squina zona verde
+    100142: pared lateral alta.001
+    100144: planta 1.001
+    100146: planta 1.003
     400000: //RootNode
     400002: Camera
     400004: Cube
@@ -145,6 +148,9 @@ ModelImporter:
     400136: puertas laterales
     400138: sotano y zona verde lateral
     400140: squina zona verde
+    400142: pared lateral alta.001
+    400144: planta 1.001
+    400146: planta 1.003
     2000000: Camera
     2100000: Material
     2100002: mosaico
@@ -225,6 +231,9 @@ ModelImporter:
     2300130: puertas laterales
     2300132: sotano y zona verde lateral
     2300134: squina zona verde
+    2300136: pared lateral alta.001
+    2300138: planta 1.001
+    2300140: planta 1.003
     3300000: Cube
     3300002: Cube.001
     3300004: Cube.002
@@ -293,6 +302,9 @@ ModelImporter:
     3300130: puertas laterales
     3300132: sotano y zona verde lateral
     3300134: squina zona verde
+    3300136: pared lateral alta.001
+    3300138: planta 1.001
+    3300140: planta 1.003
     4300000: Cube.012
     4300002: Cube.009
     4300004: Cube.011
@@ -361,6 +373,9 @@ ModelImporter:
     4300130: sotano y zona verde lateral
     4300132: esquina sotano
     4300134: esquina sotano y zona verde
+    4300136: pared lateral alta.001
+    4300138: planta 1.001
+    4300140: planta 1.003
     10800000: Lamp
   externalObjects:
   - first:

@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: 112fa40dc702ccb47a2ebae21d58446e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BALCON DE ASCENSOR 3ER PISO
+    100004: BALCONES PATIO SEG PISO
+    100006: Cube.001
+    100008: Cube.004
+    100010: Cube.005
+    100012: Cube.008
+    100014: Cube.011
+    100016: ELIMINAR ESTO DESPUES
+    100018: entrada trasera
+    100020: escaleras de patios.001
+    100022: esquina sotano
+    100024: esquina sotano y zona verde
+    100026: Lamp
+    100028: pared frontal
+    100030: pared lateral alta
+    100032: pared trasera alta
+    100034: pared trasera baja
+    100036: patio
+    100038: patio colorido
+    100040: patio madremonte xd
+    100042: patio madremonte xd.001
+    100044: patio.002
+    100046: piso
+    100048: planta 1
+    100050: planta 2
+    100052: planta 3
+    100054: planta 4
+    100056: planta 5
+    100058: planta 6
+    100060: planta 7
+    100062: puertas laterales
+    100064: separadores
+    100066: 'sotano '
+    100068: sotano .001
+    100070: sotano y zona verde
+    100072: sotano y zona verde lateral
+    100074: squina zona verde
+    100076: tejas
+    100078: torreon front left
+    100080: torreon left back
+    100082: torreon left front
+    100084: torreones frontales centro
+    100086: triangulito verde.001
+    100088: pared lateral alta.001
+    400000: //RootNode
+    400002: BALCON DE ASCENSOR 3ER PISO
+    400004: BALCONES PATIO SEG PISO
+    400006: Cube.001
+    400008: Cube.004
+    400010: Cube.005
+    400012: Cube.008
+    400014: Cube.011
+    400016: ELIMINAR ESTO DESPUES
+    400018: entrada trasera
+    400020: escaleras de patios.001
+    400022: esquina sotano
+    400024: esquina sotano y zona verde
+    400026: Lamp
+    400028: pared frontal
+    400030: pared lateral alta
+    400032: pared trasera alta
+    400034: pared trasera baja
+    400036: patio
+    400038: patio colorido
+    400040: patio madremonte xd
+    400042: patio madremonte xd.001
+    400044: patio.002
+    400046: piso
+    400048: planta 1
+    400050: planta 2
+    400052: planta 3
+    400054: planta 4
+    400056: planta 5
+    400058: planta 6
+    400060: planta 7
+    400062: puertas laterales
+    400064: separadores
+    400066: 'sotano '
+    400068: sotano .001
+    400070: sotano y zona verde
+    400072: sotano y zona verde lateral
+    400074: squina zona verde
+    400076: tejas
+    400078: torreon front left
+    400080: torreon left back
+    400082: torreon left front
+    400084: torreones frontales centro
+    400086: triangulito verde.001
+    400088: pared lateral alta.001
+    2100000: marmol
+    2100002: mosaico
+    2100004: hierba
+    2100006: marmol.001
+    2100008: ladrillos
+    2100010: concrete
+    2100012: tejado
+    2100014: baldosas
+    2100016: TABLONES
+    2100018: plants
+    2100020: cera
+    2300000: BALCON DE ASCENSOR 3ER PISO
+    2300002: BALCONES PATIO SEG PISO
+    2300004: Cube.001
+    2300006: Cube.004
+    2300008: Cube.005
+    2300010: Cube.008
+    2300012: Cube.011
+    2300014: ELIMINAR ESTO DESPUES
+    2300016: entrada trasera
+    2300018: escaleras de patios.001
+    2300020: esquina sotano
+    2300022: esquina sotano y zona verde
+    2300024: pared frontal
+    2300026: pared lateral alta
+    2300028: pared trasera alta
+    2300030: pared trasera baja
+    2300032: patio
+    2300034: patio colorido
+    2300036: patio madremonte xd
+    2300038: patio madremonte xd.001
+    2300040: patio.002
+    2300042: piso
+    2300044: planta 1
+    2300046: planta 2
+    2300048: planta 3
+    2300050: planta 4
+    2300052: planta 5
+    2300054: planta 6
+    2300056: planta 7
+    2300058: puertas laterales
+    2300060: separadores
+    2300062: 'sotano '
+    2300064: sotano .001
+    2300066: sotano y zona verde
+    2300068: sotano y zona verde lateral
+    2300070: squina zona verde
+    2300072: tejas
+    2300074: torreon front left
+    2300076: torreon left back
+    2300078: torreon left front
+    2300080: torreones frontales centro
+    2300082: triangulito verde.001
+    2300084: pared lateral alta.001
+    3300000: BALCON DE ASCENSOR 3ER PISO
+    3300002: BALCONES PATIO SEG PISO
+    3300004: Cube.001
+    3300006: Cube.004
+    3300008: Cube.005
+    3300010: Cube.008
+    3300012: Cube.011
+    3300014: ELIMINAR ESTO DESPUES
+    3300016: entrada trasera
+    3300018: escaleras de patios.001
+    3300020: esquina sotano
+    3300022: esquina sotano y zona verde
+    3300024: pared frontal
+    3300026: pared lateral alta
+    3300028: pared trasera alta
+    3300030: pared trasera baja
+    3300032: patio
+    3300034: patio colorido
+    3300036: patio madremonte xd
+    3300038: patio madremonte xd.001
+    3300040: patio.002
+    3300042: piso
+    3300044: planta 1
+    3300046: planta 2
+    3300048: planta 3
+    3300050: planta 4
+    3300052: planta 5
+    3300054: planta 6
+    3300056: planta 7
+    3300058: puertas laterales
+    3300060: separadores
+    3300062: 'sotano '
+    3300064: sotano .001
+    3300066: sotano y zona verde
+    3300068: sotano y zona verde lateral
+    3300070: squina zona verde
+    3300072: tejas
+    3300074: torreon front left
+    3300076: torreon left back
+    3300078: torreon left front
+    3300080: torreones frontales centro
+    3300082: triangulito verde.001
+    3300084: pared lateral alta.001
+    4300000: squina zona verde
+    4300002: puertas laterales
+    4300004: sotano y zona verde lateral
+    4300006: esquina sotano
+    4300008: 'sotano '
+    4300010: esquina sotano y zona verde
+    4300012: sotano .001
+    4300014: Cube.001
+    4300016: escaleras de patios.001
+    4300018: ELIMINAR ESTO DESPUES
+    4300020: patio colorido
+    4300022: triangulito verde.001
+    4300024: torreon left back
+    4300026: sotano y zona verde
+    4300028: BALCON DE ASCENSOR 3ER PISO
+    4300030: BALCONES PATIO SEG PISO
+    4300032: patio.002
+    4300034: patio madremonte xd.001
+    4300036: patio madremonte xd
+    4300038: patio
+    4300040: torreon left front
+    4300042: torreon front left
+    4300044: planta 6
+    4300046: planta 5
+    4300048: planta 3
+    4300050: planta 2
+    4300052: planta 1
+    4300054: planta 7
+    4300056: planta 4
+    4300058: separadores
+    4300060: pared frontal
+    4300062: entrada trasera
+    4300064: pared trasera alta
+    4300066: Cube.011
+    4300068: pared trasera baja
+    4300070: pared lateral alta
+    4300072: Cube.008
+    4300074: torreones frontales centro
+    4300076: Cube.005
+    4300078: Cube.004
+    4300080: tejas
+    4300082: piso
+    4300084: pared lateral alta.001
+    10800000: Lamp
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
